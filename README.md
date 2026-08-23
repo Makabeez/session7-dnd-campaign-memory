@@ -16,8 +16,8 @@ A portable continuity engine for long-running D&D / TTRPG campaigns powered by [
 |------|------|
 | **Medium article** | [How I stopped my D&D campaign from contradicting itself](https://medium.com/@tonystarks1220/how-i-stopped-my-d-d-campaign-from-contradicting-itself-across-sessions-with-walrus-memory-b966649d4070) |
 | **Demo video** | [YouTube](https://youtu.be/Y-4kyyeZXKE) |
-| **X post** | [View post](https://x.com/GeiserJoe2) *(add exact status URL)* |
-| **GitHub Issue (original repo)** | [Session 7 improvement issue](https://github.com/0xanjalii/Campaign-Vault/issues) *(add exact issue number)* |
+| **X post** | [https://x.com/GeiserJoe2/status/2091300372635660368](https://x.com/GeiserJoe2/status/2091300372635660368?s=20) |
+| **GitHub Issue (original repo)** | [Session 7 improvement issue](https://github.com/0xanjalii/Campaign-Vault/issues) |
 | **Namespace** | `session7-dnd-makabeez` |
 | **Mainnet blobs** | **14** (verified) |
 | **Account ID** | `0xedc0baac5f3ac60e536615d94766e1888c9ff1523d7af8e0693bfe7e937aad59` |
