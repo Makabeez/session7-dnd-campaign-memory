@@ -27,7 +27,7 @@ A portable continuity engine for long-running D&D / TTRPG campaigns powered by [
 
 - `evidence/boot-session2.png` — BOOT ritual correctly recalled previous session state
 - `evidence/continuity-conflict.png` — Contradiction-guard caught Gorruk appearing in the market
-- `evidence/supersede-gorruk.png` — `npc-gorruk-v2` supersedes old record on Walrus
+- `evidence/supersede-gorruk.png` — Final canon is `npc-gorruk-v3` (supersede chain: npc-gorruk → v2 → v3)
 - `evidence/handoff-session1.png` — Session 1 handoff
 - `evidence/handoff-session2.png` — Session 2 final handoff (Gorruk dead)
 - `evidence/session1-opening.png` — Session 1 opening scene
@@ -84,7 +84,10 @@ text---
 ## Real test campaign (Shadowfen Road)
 
 - **Session 1**: Party arrives in Shadowfen, meets Mara, establishes Gorruk at the old mill with the Moonstone. Handoff written.
-- **Session 2** (fresh chat): BOOT correctly recalled everything. Deliberate contradiction (Gorruk in the market) was blocked. Gorruk killed → superseding record written. Final handoff correctly listed him as dead.
+- **Session 2** (fresh chat): BOOT correctly recalled everything. Deliberate contradiction (Gorruk in the market) was blocked. Gorruk killed → supersede chain written (final node: `npc-gorruk-v3`). Final handoff correctly listed him as dead.
+
+**Supersede chain (Mainnet verified):**  
+`npc-gorruk` → `npc-gorruk-v2` → `npc-gorruk-v3` (current truth)
 
 All 14 blobs live on **Walrus Mainnet** under namespace `session7-dnd-makabeez`.
 
